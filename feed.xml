@@ -1,0 +1,49 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://ashesbeneath.github.io/</id>
+  <title>AshesBeneath</title>
+  <subtitle>AshesBeneath kişisel sitesi.</subtitle>
+  <updated>2026-04-18T12:36:26+03:00</updated>
+  <author>
+    <name>AshesBeneath</name>
+    <uri>https://ashesbeneath.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://ashesbeneath.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="tr-TR"
+    href="https://ashesbeneath.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2026 AshesBeneath </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Test Gönderi</title>
+    <link href="https://ashesbeneath.github.io/posts/Deneme/" rel="alternate" type="text/html" title="Test Gönderi" />
+    <published>2026-04-05T14:31:00+03:00</published>
+  
+    <updated>2026-04-05T14:31:00+03:00</updated>
+  
+    <id>https://ashesbeneath.github.io/posts/Deneme/</id>
+    <content type="text/html" src="https://ashesbeneath.github.io/posts/Deneme/" />
+    <author>
+      <name>AshesBeneath</name>
+    </author>
+
+  
+    
+    <category term="Test" />
+    
+    <category term="Test-Alt" />
+    
+  
+
+  <summary>Test Gönderi Açıklaması</summary>
+
+  </entry>
+
+</feed>
+
+
